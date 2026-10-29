@@ -25,5 +25,5 @@ public class BinarySearch_704 {
     }
 }
 
-//Time Complexity=O(n)
+//Time Complexity=O(log n)
 //Space Complexity = O(1)
